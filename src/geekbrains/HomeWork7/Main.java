@@ -24,4 +24,5 @@ public class Main {
                 cat.eat(plate);
             }
         }
+
 }
