@@ -25,7 +25,6 @@ public class Plate {
         return appetite < food;
     }
 
-
     public void increaseFood(int countOfFood)
     {
         food += countOfFood;
