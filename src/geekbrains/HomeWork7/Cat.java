@@ -12,7 +12,6 @@ public class Cat {
         this.name = name;
     }
 
-
     public void eat(Plate plate)
     {
         if (plate.hasEnoughFoodFor(appetite) && !isFull)
