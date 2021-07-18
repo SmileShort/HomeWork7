@@ -29,4 +29,5 @@ public class Cat {
             System.out.println(name + " уже сыт(а) и больше не хочет кушать!");
         }
     }
+
 }
